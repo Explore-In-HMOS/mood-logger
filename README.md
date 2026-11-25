@@ -2,7 +2,7 @@
 
 # Mood Logger
 
-**Mood Logger** is a lightweight ArkTS app designed for HarmonyOS Next watches. It lets you log your daily mood with
+**Mood Logger** is a lightweight ArkTS app designed for HarmonyOS watches. It lets you log your daily mood with
 emoji-based options, review the past week’s mood history, and set quick reminder timers that send a notification when
 time is up. Built for simplicity, it helps you track emotional patterns and manage small tasks directly from your wrist.
 
